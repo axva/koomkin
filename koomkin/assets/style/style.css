@@ -1,0 +1,69 @@
+body{
+  width: 100%;
+  height: 852.5px;
+  margin: 0;
+  background: white;
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  height: 43px;
+  opacity: 0.76;
+  background-color: #ffffff;
+}
+.Rectangle-text{
+  text-align: center;
+  margin: auto 20px;
+}
+.Rectangle-text-2{
+  margin-right: 10px;
+}
+.btnContac{
+  height: 22.5px;
+  border-radius: 50px;
+  background-color: #e66700;
+  border: none;
+}
+.edificios{
+  background-repeat: no-repeat;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 380px;
+}
+.logo-final-cierralo-1 {
+  width: 39.5px;
+  height: 42.5px;
+}
+.Oval{
+    width: 18.5px;
+    height: 18.5px;
+    background-color: #f7971c;
+}
+
+.Senora-manos-v2-01 {
+  width: 42.5px;
+  height: 55.5px;
+}
+.TextImg{
+  position: absolute;
+  text-align: center;
+  top: 180px;
+  right: 450px;
+}
+.separador{
+  width: 90%;
+  border: solid 0.5px #e5e5e5;
+}
+.separador-2{
+  width: 70%;
+  border: solid 0.5px #e5e5e5;
+}
+.Footer-_f{
+  width: 100%;
+  height: 138.5px;
+}
+.divFooter{
+  margin: auto 100px;
+}
